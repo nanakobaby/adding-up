@@ -39,5 +39,3 @@ rl.on('close',() => {
     })
     console.log(rankingStrings);
 });
-
-console.log('テスト');
